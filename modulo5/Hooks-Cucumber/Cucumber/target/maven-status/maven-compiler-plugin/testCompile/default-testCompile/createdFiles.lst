@@ -1,0 +1,4 @@
+com/feature/AppTest.class
+com/feature/RunCucumberTest.class
+com/feature/stepdefinitions/StepsLogin.class
+com/feature/stepdefinitions/Hooks.class
