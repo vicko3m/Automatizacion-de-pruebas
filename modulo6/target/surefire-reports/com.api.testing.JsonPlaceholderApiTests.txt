@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.api.testing.JsonPlaceholderApiTests
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.74 s -- in com.api.testing.JsonPlaceholderApiTests
